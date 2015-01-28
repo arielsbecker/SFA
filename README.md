@@ -1,6 +1,10 @@
 # SFA
 Señalización Ferroviaria Argentina
 
-Este repositorio contendrá todo lo necesario para el proyecto.
+El proyecto consiste en señalización ferroviaria inalámbrica del tipo ETCS
+basada en el estándar IEEE 802.16 y en sistemas autónomos de alimentación
+eléctrica (microeólica, paneles solares, energía geotérmica, etcétera).
 
-Antes que nada es necesario traer la pseudo wiki desde https://sites.google.com/site/arsebproyectos/indice/SFA. Abro un issue para esa tarea, y coloco como primer milestone la conversión de todo el material de ese sitio Google.
+En este momento el proyecto está en su fase inicial, en etapa de adquisición
+de referencias y antecedentes, con el fin de elaborar el plan de acción
+pertinente.
