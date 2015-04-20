@@ -8,3 +8,5 @@ eléctrica (microeólica, paneles solares, energía geotérmica, etcétera).
 En este momento el proyecto está en su fase inicial, en etapa de adquisición
 de referencias y antecedentes, con el fin de elaborar el plan de acción
 pertinente.
+
+Se puede consultar el resumen ejecutivo y el resto de la wiki [haciendo clic aquí](https://github.com/arielsbecker/sfa/wiki).
